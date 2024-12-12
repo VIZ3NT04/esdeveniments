@@ -1,0 +1,99 @@
+<odoo>
+    <data>
+
+          <record id="object0" model="esdeveniments.esdeveniments">
+            <field name="nom">Xatinet</field>
+            <field name="foto">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
+B1xTRC4AAAAASUVORK5CYII=</field>
+          </record>
+<!--
+          <record id="object1" model="esdeveniments.esdeveniments">
+            <field name="name">Object 1</field>
+            <field name="value">10</field>
+          </record>
+
+          <record id="object2" model="esdeveniments.esdeveniments">
+            <field name="name">Object 2</field>
+            <field name="value">20</field>
+          </record>
+
+          <record id="object3" model="esdeveniments.esdeveniments">
+            <field name="name">Object 3</field>
+            <field name="value">30</field>
+          </record>
+
+          <record id="object4" model="esdeveniments.esdeveniments">
+            <field name="name">Object 4</field>
+            <field name="value">40</field>
+          </record>
+-->
+    </data>
+</odoo>
